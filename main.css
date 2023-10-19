@@ -35,7 +35,7 @@ li {
   margin: auto;
 }
 .first {
-  background-image: url(.images/background1.png);
+  background-image: url(images/background1.png);
   background-size: cover;
   background-repeat: no-repeat;
   min-height: 800px;
