@@ -35,7 +35,7 @@ li {
   margin: auto;
 }
 .first {
-  background-image: url(/images/background1.png);
+  background-image: url(./images/background1.png);
   background-size: cover;
   background-repeat: no-repeat;
   min-height: 800px;
@@ -138,7 +138,7 @@ li {
   text-transform: capitalize;
 }
 .third {
-  background-image: url(/images/background2.png);
+  background-image: url(./images/background2.png);
   background-size: 40%;
   background-repeat: no-repeat;
   display: grid;
@@ -192,7 +192,7 @@ svg {
 .fourth {
   display: grid;
   grid-template-columns: 45% 55%;
-  background-image: url(/images/Background5.png);
+  background-image: url(./images/Background5.png);
   background-size: 40%;
   background-repeat: no-repeat;
   background-position-x: right;
@@ -380,7 +380,7 @@ button[type="submit"] {
   font-weight: 500;
 }
 .seventh .sec2 {
-  background-image: url(/images/back.png);
+  background-image: url(./images/back.png);
   background-color: #F9F9F9;
   background-size: 100%;
   border-radius: 2%;
